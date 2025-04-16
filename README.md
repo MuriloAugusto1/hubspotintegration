@@ -84,8 +84,6 @@ Este projeto é uma aplicação Spring Boot que realiza a integração com a API
 
 ---
 
----
-
 ## 🧾 Exemplo de payloads
 
 ### POST `/contacts`
