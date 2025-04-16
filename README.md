@@ -14,8 +14,6 @@ Este projeto é uma aplicação Spring Boot que realiza a integração com a API
 
 ---
 
----
-
 ## 🛠️ Como configurar o HubSpot (App + Conta de Teste)
 
 1. **Crie uma conta de desenvolvedor no HubSpot**  
